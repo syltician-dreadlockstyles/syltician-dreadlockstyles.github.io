@@ -1,0 +1,46 @@
+.slideshow-container {
+    display: block;
+    max-width: 600px;
+}
+.slideshow-container > * {
+    text-align: center;
+    font-size: 18px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-style: italic;
+    color: #200a52;
+}
+
+.foto-links {
+    text-align: center;
+}
+
+.foto-link-row {
+    display: inline-block;
+    max-width: 550px;
+    text-align: center;
+}
+
+.foto-link {
+    position: relative;
+    display: inline-block;
+    height: 180px;
+    overflow: hidden;
+}
+
+.foto-link > img {
+    width: 256px;
+    max-width: 80vw;
+    max-height: 80vw;
+}
+
+.foto-link > div {
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

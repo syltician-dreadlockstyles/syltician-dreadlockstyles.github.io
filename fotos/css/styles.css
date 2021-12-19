@@ -1,0 +1,7 @@
+.fotos {
+    text-align: center;
+}
+
+.fotos > img {
+    max-height: 350px;
+}
