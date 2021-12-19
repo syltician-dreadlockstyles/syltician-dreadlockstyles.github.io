@@ -5,7 +5,7 @@
 .slideshow-container > * {
     text-align: center;
     font-size: 18px;
-    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", cursive;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     font-style: italic;
     color: #200a52;
 }
@@ -38,7 +38,7 @@
     -webkit-text-stroke: 1px black;
     font-size: 24px;
     font-weight: 800;
-    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", cursive;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     position: absolute;
     top: 50%;
     left: 50%;
