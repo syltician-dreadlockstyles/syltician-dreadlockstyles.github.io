@@ -1,0 +1,9 @@
+.price-description {
+    font-style: italic;
+    border-left: 3px solid #b9b9b9;
+    color: #777;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+}
