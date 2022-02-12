@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
     line-height: 26px;
+    background-color: #f7f6f0;
 }
 
 .main-wrapper{
@@ -63,8 +64,20 @@ a {
 
 h1 {
     text-align: center;
-    font-size: 22px;
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-size: 26px;
+    font-family: 'BradleyHandITCBold'; 
     color: #200a52;
     margin-top: 60px;
+}
+
+@font-face {
+    font-family: 'BradleyHandITC';
+    src: url("/shared/fonts/bradley_hand_itc.ttf") format('truetype');
+    src: url("/shared/fonts/bradley_hand_itc.woff") format('woff');
+}
+
+@font-face {
+    font-family: 'BradleyHandITCBold';
+    src: url("/shared/fonts/bradley_hand_itc_bold.ttf") format('truetype');
+    src: url("/shared/fonts/bradley_hand_itc_bold.woff") format('woff');  
 }

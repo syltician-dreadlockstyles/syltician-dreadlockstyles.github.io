@@ -1,3 +1,22 @@
+.company-name {
+    font-family: 'BradleyHandITCBold';
+    text-align: center;
+    font-size: 40px;
+    line-height: 40px;
+    color: #200a52;
+}
+
+.company-slogan {
+    font-family: 'BradleyHandITC';
+    text-align: center;
+    font-size: 32px;
+    line-height: 32px;
+    font-style: italic;
+    margin-top: 4px;
+    margin-bottom: 20px;
+    color: #200a52;
+}
+
 .slideshow-container {
     display: block;
     max-width: 600px;
@@ -5,8 +24,7 @@
 .slideshow-container > * {
     text-align: center;
     font-size: 18px;
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
-    font-style: italic;
+    font-family: "BradleyHandITC";
     color: #200a52;
 }
 
@@ -37,8 +55,9 @@
     color: white;
     -webkit-text-stroke: 1px black;
     font-size: 24px;
-    font-weight: 800;
+    font-weight: 900;
     font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    text-transform: uppercase;
     position: absolute;
     top: 50%;
     left: 50%;
