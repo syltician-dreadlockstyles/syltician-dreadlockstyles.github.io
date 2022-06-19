@@ -17,8 +17,8 @@ body {
 .company-name {
     font-family: 'BradleyHandITCBold';
     text-align: center;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 25px;
+    line-height: 25px;
     color: #FFF;
 }
 
@@ -63,7 +63,7 @@ a {
 .nav ul li a {
     display: inline-block;
     padding: 5px 15px;
-    color: #b9b9b9;
+    color: #56505088;
     text-transform: uppercase;
     letter-spacing: .07em;
     font-family: 'Candara';
