@@ -17,16 +17,16 @@ body {
 .company-name {
     font-family: 'BradleyHandITCBold';
     text-align: center;
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 38px;
+    line-height: 38px;
     color: #FFF;
 }
 
 .company-slogan {
     font-family: 'Candara';
     text-align: center;
-    font-size: 26px;
-    line-height: 26px;
+    font-size: 20px;
+    line-height: 20px;
     font-style: italic;
     margin-top: 4px;
     color: #ffffff;
