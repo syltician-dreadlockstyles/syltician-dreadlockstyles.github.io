@@ -3,7 +3,29 @@ body {
     line-height: 26px;
     background-color: #f7f6f0;
 }
+.logo-balk{ 
+    background-color: #000;
+}
 
+.company-name {
+    font-family: 'BradleyHandITCBold';
+    text-align: center;
+    font-size: 40px;
+    line-height: 40px;
+    color: #FFF;
+}
+
+.company-slogan {
+    font-family: 'BradleyHandITC';
+    text-align: center;
+    font-size: 32px;
+    line-height: 32px;
+    font-style: italic;
+    margin-top: 4px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+    
 .main-wrapper{
     max-width: 900px;
     margin-left: auto;
@@ -65,8 +87,8 @@ a {
 h1 {
     text-align: center;
     font-size: 26px;
-    font-family: 'BradleyHandITCBold'; 
-    color: #200a52;
+    font-family: 'Candara'; 
+    color: rgb(0, 0, 0);
     margin-top: 60px;
 }
 
